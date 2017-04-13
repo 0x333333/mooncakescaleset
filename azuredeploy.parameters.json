@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmSku": {
-      "value": "Standard_D2_v2"
+      "value": "Standard_A2"
     },
     "centOSVersion": {
       "value": "7.2"
